@@ -1,0 +1,2 @@
+# M2_Embedded_UltrasonicSoundSensor
+Naming convention: M2_Embedded_UltrasonicSoundSensor
