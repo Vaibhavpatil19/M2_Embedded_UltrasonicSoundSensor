@@ -25,3 +25,5 @@ Output:2
 ![Capture 2](https://api.codiga.io/project/30185/status/svg)
 
 [![Manual workflow](https://github.com/Vaibhavpatil19/M2_Embedded_UltrasonicSoundSensor/actions/workflows/manual.yml/badge.svg)](https://github.com/Vaibhavpatil19/M2_Embedded_UltrasonicSoundSensor/actions/workflows/manual.yml)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a80cb32ad139489ab9de0217bb06cbce)](https://www.codacy.com/gh/Vaibhavpatil19/M2_Embedded_UltrasonicSoundSensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vaibhavpatil19/M2_Embedded_UltrasonicSoundSensor&amp;utm_campaign=Badge_Grade)
