@@ -7,3 +7,5 @@
 
 ![Capture 1](https://api.codiga.io/project/30185/score/svg)
 ![Capture 2](https://api.codiga.io/project/30185/status/svg)
+
+[![Manual workflow](https://github.com/Vaibhavpatil19/M2_Embedded_UltrasonicSoundSensor/actions/workflows/manual.yml/badge.svg)](https://github.com/Vaibhavpatil19/M2_Embedded_UltrasonicSoundSensor/actions/workflows/manual.yml)
