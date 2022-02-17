@@ -90,7 +90,7 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 
 | ID             | Description                                                           |
 | ----------------- | ------------------------------------------------------------------ |
-|           |• Power Supply :+5V DC.  |
-| LLR_1_HLR1|• Measuring Angle: 30 degree.  |                                                                                                                                                  |
-|           |• Trigger Input Pulse width: 10uS TTL pulse.  |
-| LLR_1_HRL1|• Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water.  |
+|  LLR1          |• Power Supply :+5V DC.  |
+| LLR2|• Measuring Angle: 30 degree.  |                                                                                                                                   
+| LLR3|• Trigger Input Pulse width: 10uS TTL pulse.  |
+| LLR4|• Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water.  |
